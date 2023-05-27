@@ -36,7 +36,7 @@ const skillsList = [
   "Inclusive design",
   "Focus group testing",
   "Mobile user interfaces",
-  "Graphic design",
+  "Cooking",
 ];
 
 /**
